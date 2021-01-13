@@ -11,7 +11,6 @@ public class BGMController : MonoBehaviour
     float vol = 1f;
     float volrate = 0.1f;
 
-    bool Stop = false;
     // Start is called before the first frame update
     void Start()
     {
